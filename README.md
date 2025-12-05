@@ -1,6 +1,6 @@
 ## Scatterplot Data Challenge
 
-This exercise evaluates your ability to build a small full-stack application.  
+The task is to build a small full-stack application.  
 A SQLite database (`db.sqlite`) is included in the repository and contains a set of test data points together with hourly
 values for each point. Your task is to create a backend and a frontend that together present this data in a clear and
 meaningful way.
