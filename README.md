@@ -1,4 +1,4 @@
-## Scatterplot Data Challenge
+## Fullstack Data Challenge
 
 The task is to build a small full-stack application.  
 A SQLite database (`db.sqlite`) is included in the repository and contains a set of test data points together with hourly
